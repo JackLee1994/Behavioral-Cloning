@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/center_2017_03_12_00_40_19_594.jpg "img"
+[image1]: ./example/center_2017_03_12_00_40_19_594.jpg "img"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
